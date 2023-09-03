@@ -1,7 +1,7 @@
 ---
 title: "Predicting the antigenic evolution of SARS-COV-2 with deep learning"
 collection: publications
-permalink: #/publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-Predicting-the-antigenic-evolution-of-SARS-COV-2-with-deep-learning
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023
 venue: 'Nature communications'
