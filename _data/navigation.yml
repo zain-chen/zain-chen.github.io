@@ -2,12 +2,12 @@
 main:
   #- title: "Publications"
   #  url: /publications/  
-    
+
   - title: "Research"
-  url: /research/
+    url: /research/
 
   - title: "Materials"
-  url: /materials/
+    url: /materials/
 
   - title: "Others"
-  url: /others/
+    url: /others/
