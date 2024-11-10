@@ -14,4 +14,4 @@ During my undergraduate years, I was proud to play for the joint men’s basketb
 
 My research interest includes High Dimensional Statistics, Generalization Theory, Trustworthy LLM and Stochastic Optimization.
 
-You can find my CV here: [CV](../assets/CV.pdf).
+You can find my [CV](../assets/CV.pdf) here.

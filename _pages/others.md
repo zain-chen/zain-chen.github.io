@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Notes"
+permalink: /others/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,17 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Bioinformatics, Southern University of Science and Technology, 2017-2021
-* M.S. in Bioscience (Computational Bioscience Research Center), King Abdullah University of Science and Technology (KAUST), 2020-2022
-* Ph.D in Biosystems Science and Engineering, ETH Zurich, 2023-2027 (expected)
+* STAT 30100
 
-Work experience
+Sports
+======
+* During my undergraduate years, I was proud to play for the joint men’s basketball team of the School of Mathematical Sciences and the School of Statistics, serving as the captain for two years.
+![Final](../images/profile4.webp)
+
+* I also love skiing.
+![Xishan](../images/profile3.png)
+
+
+<!-- Work experience
 ======
 * 2022-2023: Algorithm engineer
   * Syneron Tech
-  * Duties included: AI for drug discovery, phage display & cDNA display NGS analysis
+  * Duties included: AI for drug discovery, phage display & cDNA display NGS analysis -->
 
   
 <!-- Skills
@@ -30,12 +35,12 @@ Work experience
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3 -->
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
