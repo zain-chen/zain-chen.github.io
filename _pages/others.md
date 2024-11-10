@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Notes"
+title: "Others"
 permalink: /others/
 author_profile: true
 redirect_from:
@@ -8,16 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-* STAT 30100
-
 Sports
 ======
 * During my undergraduate years, I was proud to play for the joint men’s basketball team of the School of Mathematical Sciences and the School of Statistics, serving as the captain for two years.
-![Final](../images/profile4.webp)
+!["Moon Cup" Final](../images/profile4.webp)
 
 * I also love skiing.
 ![Xishan](../images/profile3.png)
+
+Template
+======
+* The only contribution I made to the UChicago is slides template... [UChicago Beamer](https://www.overleaf.com/latex/templates/uchicago-beamer/gpcrpvqzvdfr)
 
 
 <!-- Work experience
