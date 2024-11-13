@@ -11,14 +11,16 @@ redirect_from:
 Sports
 ======
 * During my undergraduate years, I was proud to play for the joint men’s basketball team of the School of Mathematical Sciences and the School of Statistics, serving as the captain for two years.
-!["Moon Cup" Final](../images/profile4.webp)
+<img src="../images/profile4.webp" alt='"Moon Cup" Final' width="400"/>
 
 * I also love skiing.
-![Xishan](../images/profile3.png)
+<img src="../images/profile3.png" alt='"Xishan, Beijing" Final' width="400"/>
 
-Template
+Cooking
 ======
-* The only contribution I made to the UChicago is slides template... [UChicago Beamer](https://www.overleaf.com/latex/templates/uchicago-beamer/gpcrpvqzvdfr)
+* Carpe vinum.
+
+
 
 
 <!-- Work experience
