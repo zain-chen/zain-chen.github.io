@@ -11,15 +11,15 @@ redirect_from:
 Sports
 ======
 * During my undergraduate years, I was proud to play for the joint men’s basketball team of the School of Mathematical Sciences and the School of Statistics, serving as the captain for two years.
-<img src="../images/profile4.webp" alt='"Moon Cup" Final' width="400"/>
+<img src="../images/profile4.webp" alt='"Moon Cup" Final' width="300"/>
 
 * I also love skiing.
-<img src="../images/profile3.png" alt='"Xishan, Beijing" Final' width="400"/>
+<img src="../images/profile3.png" alt='Xishan, Beijing' width="300"/>
 
 Cooking
 ======
-* Carpe vinum.
-
+* Carpe vinum!
+<img src="../images/food1.jpg" alt='Final' width="300"/>
 
 
 
