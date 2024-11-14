@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-Tight Bound of Gaussian Interpolators: \( l_1 \), \( l_2 \), and General Norm
+Project
 ====== 
+* **Tight Bound of Gaussian Interpolators: \( l_1 \), \( l_2 \), and General Norm**
   *Jun 2024 - Present*  
   *Research Assistant*  
   **Advisor:** [Frederic Koehler](https://frkoehle.github.io/)  
@@ -17,8 +18,7 @@ Tight Bound of Gaussian Interpolators: \( l_1 \), \( l_2 \), and General Norm
   - Applying \( l_1 \) norm's tight bound technique developed by [G. Wang](https://guillaumew16.github.io/) et al. to general norm interpolators.
   - Conducting a thorough literature review on CGMT, uniform convergence, and effective rank.
 
-Parallel Inference for Quantile Regression Using Stochastic Subgradient Descent
-======
+* **Parallel Inference for Quantile Regression Using Stochastic Subgradient Descent**
   *Jun 2024 - Present*  
   *Master's Thesis*  
   **Advisor:** [Prof. Wei Biao Wu](https://www.stat.uchicago.edu/~wbwu/)  
@@ -26,8 +26,7 @@ Parallel Inference for Quantile Regression Using Stochastic Subgradient Descent
   - The method addresses large-scale quantile regression by distributing computations across multiple processors and constructs confidence intervals for coefficients through averaging parallel runs, leveraging asymptotic theory.
   - [paper](../assets/paper1.pdf)
 
-Detoxification: Self Supervisor, External Monitor, and Adversarial Trained System Prompt
-======  
+* **Detoxification: Self Supervisor, External Monitor, and Adversarial Trained System Prompt**
   *Mar 2024 - Jun 2024*  
   *Course Project*  
   **Advisor:** [Prof. Bo Li](https://aisecure.github.io/)  
