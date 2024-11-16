@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-Hi! I am a second-year master student in School of Statistics, the University of Chicago, advised by Prof. [Frederic Koehler](https://frkoehle.github.io/) and Prof. [Wei Biao Wu](https://www.stat.uchicago.edu/~wbwu/). Previously, I obtained my bachelor's degree from School of Statistics, Beijing Normal University, advised by Prof. [Gaorong Li](https://scholar.google.com/citations?user=cakQLOsAAAAJ&hl=zh-CN). 
+Hi! I am a second-year master student in School of Statistics, the University of Chicago, advised by Prof. [Frederic Koehler](https://frkoehle.github.io/) and Prof. [Wei Biao Wu](https://www.stat.uchicago.edu/~wbwu/). Previously, I obtained my bachelor's degree from School of Statistics, Beijing Normal University, advised by Prof. [Gaorong Li](https://scholar.google.com/citations?user=cakQLOsAAAAJ&hl=zh-CN).
+
+During my undergraduate years, I was proud to play for the joint men’s basketball team of the School of Mathematical Sciences and the School of Statistics, serving as the captain for two years.
 
 Research Interests 
 ======
